@@ -12,6 +12,7 @@ AD-block.
 [ro-survivors](https://ro-survivors.com/) RO倖存者遊戲輔助
 
 免費ai點數製作bata版，支持背景運作，另外用起來沒效果的就是功能未完成…
+
 for PC chrome插件.
 
 遊戲變得極度無聊，謹慎使用！！！
