@@ -10,7 +10,7 @@ AD-block.
 [ROs-2.5.0.zip](https://github.com/user-attachments/files/34954476/ROs-2.5.0.zip)
 <img width="1008" height="2708" alt="Screenshot_2026-11-17-13-45-32-910_com lemurbrowser exts-edit" src="https://github.com/user-attachments/assets/d5ce8015-a02b-41c6-8b99-1bb7f054edce" />
 
-ro-survivors RO倖存者遊戲輔助
+[ro-survivors](https://ro-survivors.com/) RO倖存者遊戲輔助
 
 免費ai點數製作bata版，部分功能未完成.  
 for PC chrome插件.
