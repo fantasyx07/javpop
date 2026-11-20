@@ -11,13 +11,9 @@ AD-block.
 
 [ro-survivors](https://ro-survivors.com/) RO倖存者遊戲輔助
 
-免費ai點數製作bata版，部分功能未完成.  
+免費ai點數製作bata版，支持背景運作，另外用起來沒效果的就是功能未完成…
 for PC chrome插件.
 
 遊戲變得極度無聊，謹慎使用！！！
 
-This is a free AI-generated beta version; some features are incomplete.
-
-Compatible with PC Chrome extensions.
-
-The game is extremely boring; this is just a basic application!
+Free AI point generator beta version, supports background operation. However, if it doesn't work, the feature is incomplete… for PC Chrome extension.
