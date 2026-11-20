@@ -16,4 +16,8 @@ for PC chrome插件.
 
 遊戲變得極度無聊，謹慎使用！！！
 
+This is a free AI-generated beta version; some features are incomplete.
 
+Compatible with PC Chrome extensions.
+
+The game is extremely boring; this is just a basic application!
