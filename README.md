@@ -17,6 +17,6 @@ RO倖存者遊戲輔助
 
 for PC chrome插件.
 
-遊戲變得極度無聊，謹慎使用！！！
+遊戲變得極度無聊，exp謹慎使用！！！
 
 Free AI point generator beta version, supports background operation. However, if it doesn't work, the feature is incomplete… for PC Chrome extension.
